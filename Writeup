@@ -1,0 +1,3 @@
+Our dashboard takes a Random Forest Regressor approach to find out what factors most contribute to the slot machines losing the most amount of money. 
+In this Git Hub you have access to the notebook used for the machine learning model as "DashboardRoyale.ipynb". 
+The dashboard is non databricks at this link: https://dbc-4ccd2f94-fe12.cloud.databricks.com/dashboardsv3/01f1db8a5f691e9b802f2ef604cfe5c2/published?o=7474655764291642
